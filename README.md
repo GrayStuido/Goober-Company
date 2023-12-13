@@ -15,7 +15,7 @@ Goober Company, a curated collection of mods that enhance and or make the game m
 
 1. **Backup Your Game**: Before installing the modpack, make sure to back up your game files to avoid any potential issues. (or dont)
 2. **Download and Install Thunderstore**: If you haven't already, download and install [Thunderstore Here](https://www.overwolf.com/app/Thunderstore-Thunderstore_Mod_Manager).
-3. **Download Goober Company Modpack**: Visit our [Thunderstore page](https://valheim.thunderstore.io/package/FizzyBombBand/GooberCompany) and download the latest version of the Goober Company Modpack.
+3. **Download Goober Company Modpack**: Visit our [Thunderstore page](https://valheim.thunderstore.io/package/FizzyBombBand/Goober_Company) and download the latest version of the Goober Company Modpack.
 4. **Install Mods**: Open your mod manager and install the modpack.
 5. **Launch Your Game**: Once the installation is complete, launch your game and marvel at the glory of it all.
 
