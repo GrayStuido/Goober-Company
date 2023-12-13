@@ -1,6 +1,6 @@
 # Goober Company Modpack
 
-![Goober Company](https://cdn.discordapp.com/attachments/948025885926256750/1182544080341827615/perfect-cell-ballin.gif?ex=658514ff&is=65729fff&hm=b7274444e73edfdd9a0a754ac0c6f0bad00e313f7ee51b0132ed6b7819e143fc&)
+![Goober Company](perfect-cell-ballin.gif)
 
 Goober Company, a curated collection of mods that enhance and or make the game more fun for me and my fellas.
 
