@@ -37,7 +37,7 @@ Here is a list of mods included in the Goober Company Modpack:
 --
 - Makes the game start with 1000 credits instead of 60
 
-[ TerminalAPI
+[ [TerminalAPI](https://thunderstore.io/c/lethal-company/p/NotAtomicBomb/TerminalApi/)
 --
 - Litteraly just an API what more do you want from me? 
 
