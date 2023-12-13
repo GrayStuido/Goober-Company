@@ -25,15 +25,15 @@ Here is a list of mods included in the Goober Company Modpack:
 
 ---
 
-[ LateCompany
+[ [LateCompany](https://thunderstore.io/c/lethal-company/p/anormaltwig/LateCompany/)
 --
 - Allows players to join game after its been started
 
-[ ShipLoot
+[ [ShipLoot](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
 --
 - Tells you exactly how much money is on the ship
 
-[ MoreMoneyStart
+[ [MoreMoneyStart](https://thunderstore.io/c/lethal-company/p/299792458/MoreMoneyStart/)
 --
 - Makes the game start with 1000 credits instead of 60
 
@@ -41,7 +41,7 @@ Here is a list of mods included in the Goober Company Modpack:
 --
 - Litteraly just an API what more do you want from me? 
 
-[ QuotaRollover 
+[ [QuotaRollover](https://thunderstore.io/c/lethal-company/p/boxofbiscuits97/QuotaRollover/)
 --
 - If the quota is 340/300 the 40 rolls over to the next one eg: new quota would be 40/460
 
